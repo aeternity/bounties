@@ -21,3 +21,4 @@ Contributor Awards: Star æmbassador of the last year with votes on SH, after th
 Meetups: [Introduction to AE at existing developer community meetups (e.g. Erlang, Elixir and blockchain developer meetups) – CHF 100-250 depending on Location](https://forum.aeternity.com/t/introducing-5-new-aembassador-bounties/7124)
 
 Please fill in [this form](https://form.jotform.com/201473585565361) when your contribution was approved to claim your bounty reward. Reach out to erik@aeternity.com whenever you are having any questions or doubts regarding the bounties and the process! Let's take control together :)
+![alt text](https://github.com/aeternity/bounties/blob/master/1a.gif)
