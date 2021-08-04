@@ -18,8 +18,4 @@ Superhero: [Crawl, save and return favicon – CHF 400](https://github.com/aeter
 
 Ideation: Commmunity Contest for new bounty proposals – 10,000 AE distributed amongst best bounty ideas
 
-Contributor Awards: Star æmbassador of the last year with votes on SH, after that star ærmy contributor of the month (monthly votes on SH) (Forum Link) – CHF 500 to be distributed amongst 3 winners
-
-Meetups: [Introduction to AE at existing developer community meetups (e.g. Erlang, Elixir and blockchain developer meetups) – CHF 100-250 depending on Location](https://forum.aeternity.com/t/introducing-5-new-aembassador-bounties/7124)
-
 Please fill in [this form](https://form.jotform.com/201473585565361) when your contribution was approved (your PR was merged) to claim your bounty reward. Make sure to include your æternity wallet address in the form to receive your reward. Bounties will be transferred in AE tokens and calculated based on CHF values before payment. Reach out to erik@aeternity.com whenever you are having any questions or doubts regarding the bounties and the process! Let's take control together :)
