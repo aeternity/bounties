@@ -16,4 +16,6 @@ Superhero: [Update Chain names from chainListener via listening to tx – CHF 20
 
 Superhero: [Crawl, save and return favicon – CHF 400](https://github.com/aeternity/tipping-community-backend/issues/69)
 
+More bounties will be addded soon!
+
 In order to participate in a bounty you need to make a comment with your estimated working time. The respective owner of the issue will give you a confirmation before you can start contributing on the bounty task. Please fill in [this form](https://form.jotform.com/212153957491359) when your contribution is approved (your PR is merged) to claim your bounty reward. Make sure to include your æternity wallet address in the form to receive your reward. Bounties will be transferred in AE tokens and calculated based on CHF values before payment. Reach out to erik@aeternity.com whenever you are having any questions or doubts regarding the bounties and the process! Let's take control together :)
