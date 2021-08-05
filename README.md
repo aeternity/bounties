@@ -4,7 +4,7 @@
 
 Get your hands dirty and pick your next task to help æternity become the number one platform for blockchain developers. Let's bring the promise of trustless, transparent and tamperproof tools to the masses!
 
-Participate in the ongoing discussion about the new branding & concept of the "Ærmy" program and take part in the birth of a new movement.
+[Participate](https://github.com/aeternity/bounties/blob/master/README.md) in the ongoing discussion about the new branding & concept of the "Ærmy" program and take part in the birth of a new movement.
 
 You can currently contribute on the following open issues and challenges:
 
