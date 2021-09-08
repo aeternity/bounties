@@ -1,10 +1,10 @@
-# Æ United - Moving towards the future of æternity, æternally
+# æUnited - Moving towards the future of æternity, æternally
 
 Get your hands dirty and pick your next task to help æternity become the number one platform for blockchain developers. Let's bring the promise of trustless, transparent and tamperproof tools to the masses!
 
 ![alt text](https://github.com/aeternity/bounties/blob/master/2(light).gif?raw=true)
 
-[Participate](https://forum.aeternity.com/t/choose-your-name-lets-find-a-name-for-the-new-community-contributor-program/9712) in the ongoing discussion about the new branding & concept of Æ United and take part in the birth of a new movement. Check how the community vote about the name of the program went out on [Superhero poll #98](https://superhero.com/voting).
+[Participate](https://forum.aeternity.com/t/choose-your-name-lets-find-a-name-for-the-new-community-contributor-program/9712) in the ongoing discussion about the new branding & concept of æUnited and take part in the birth of a new movement. Check how the community vote about the name of the program went out on [Superhero poll #98](https://superhero.com/voting).
 
 ## Bounties
 You can currently contribute on the following open issues and challenges:
