@@ -4,8 +4,7 @@ Get your hands dirty and pick your next task to help æternity become the number
 
 ![alt text](https://github.com/aeternity/bounties/blob/master/%C3%A6United%20logo%20animated.gif?raw=true)
 
-[Participate](https://forum.aeternity.com/t/choose-your-name-lets-find-a-name-for-the-new-community-contributor-program/9712) in the ongoing discussion about the new branding & concept of æUnited and take part in the birth of a new movement. Check how the community vote about the name of the program went out on [Superhero poll #98](https://superhero.com/voting).
-
+[Tune in](https://youtu.be/kJvdStPURw0) to the ongoing discussion and ideas for the future of æUnited and take part in the birth of a new movement. [Learn](https://forum.aeternity.com/t/choose-your-name-lets-find-a-name-for-the-new-community-contributor-program/9712) how the community proposed and voted for the name of the new Open-Source Contribution Program.
 ## Bounties
 You can currently contribute on the following open issues and challenges:
 
