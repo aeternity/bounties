@@ -10,7 +10,7 @@ You can currently contribute on the following open issues and challenges:
 
 | Area | Task | Reward | Status | Assigned to | Target date |
 | --- | --- | --- | --- | --- | --- |
-| DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | open | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
+| DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | in progress | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
 | DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | in progress | [@genievot](https://github.com/genievot) | 10.09.2021 |
 | DevTools | [ZKP based private transactions](https://github.com/aeternity/bounties/issues/2) | CHF 10000 | open | | |
 | Superhero | [tipping-community-backend: update chain names from chainListener via listening to tx](https://github.com/aeternity/tipping-community-backend/issues/303) | CHF 200 | open | - | - |
