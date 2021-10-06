@@ -33,4 +33,4 @@ _We reserve the right to assign the bounty to someone else in this case!_
 Please fill in **[this form](https://form.jotform.com/212515121575347)** when your contribution is approved to claim your bounty reward. The approval is either a merge of the PR in the official repository or an explicit comment in the issue of the bounty if there is no official repository in the organization. Make sure to include your *æternity wallet address* in the form as well as in the Github Issue conversation to receive your reward. Bounties will be transferred in **AE tokens** and calculated based on CHF values before payment.
 
 ## Questions?
-Reach out to erik@aeternity.com whenever you are having any questions or doubts regarding the bounties and the process! *Let's take control together* :)
+Reach out to erik@aeternity.com or ask on [Discord](https://discord.gg/kthXBwBxEb) whenever you are having any questions or doubts regarding the bounties and the process! *Let's take control together* :)
