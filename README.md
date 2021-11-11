@@ -16,7 +16,7 @@ You can currently contribute on the following open issues and challenges:
 | DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | Done, ready to claim | [@genievot](https://github.com/genievot) | 10.09.2021 |
 | DevTools | [ZKP based private transactions](https://github.com/aeternity/bounties/issues/2) | CHF 10000 | open | | |
 | Superhero | [tipping-community-backend: update chain names from chainListener via listening to tx](https://github.com/aeternity/tipping-community-backend/issues/303) | CHF 200 | open | - | - |
-| Superhero | [tipping-community-backend: crawl, save and return favicon](https://github.com/aeternity/tipping-community-backend/issues/69) | CHF 400 | in progress | [Yusuph Dilas Che](https://github.com/dilas12345) | 17.10.2021 |
+| Superhero | [tipping-community-backend: crawl, save and return favicon](https://github.com/aeternity/tipping-community-backend/issues/69) | CHF 400 | open | | |
 
 More bounties will be addded soon!
 
