@@ -10,7 +10,7 @@ You can currently contribute on the following open issues and challenges:
 
 | Area | Task | Reward | Status | Assigned to | Target date |
 | --- | --- | --- | --- | --- | --- |
-| DevTools | [React.JS Boilerplate](https://github.com/aeternity/bounties/issues/4) | CHF 250 | in review | [@emmanuelJet](https://github.com/emmanuelJet) | 10.11.2021 |
+| DevTools | [React.JS Boilerplate](https://github.com/aeternity/bounties/issues/4) | CHF 250 | Done, ready to claim | [@emmanuelJet](https://github.com/emmanuelJet) | 10.11.2021 |
 | DevTools | [Angular Boilerplate](https://github.com/aeternity/bounties/issues/5) | CHF 250 | in review | [@YinkaEnoch](https://github.com/YinkaEnoch) | 12.11.2021 |
 | DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | Done, ready to claim | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
 | DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | Done, ready to claim | [@genievot](https://github.com/genievot) | 10.09.2021 |
