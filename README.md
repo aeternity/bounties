@@ -10,10 +10,10 @@ You can currently contribute on the following open issues and challenges:
 
 | Area | Task | Reward | Status | Assigned to | Target date |
 | --- | --- | --- | --- | --- | --- |
-| DevTools | [React.JS Boilerplate](https://github.com/aeternity/bounties/issues/4) | CHF 250 | Done, ready to claim | [@emmanuelJet](https://github.com/emmanuelJet) | 10.11.2021 |
+| DevTools | [React.JS Boilerplate](https://github.com/aeternity/bounties/issues/4) | CHF 250 | COMPLETED | [@emmanuelJet](https://github.com/emmanuelJet) | 10.11.2021 |
 | DevTools | [Angular Boilerplate](https://github.com/aeternity/bounties/issues/5) | CHF 250 | in review | [@YinkaEnoch](https://github.com/YinkaEnoch) | 12.11.2021 |
-| DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | Done, ready to claim | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
-| DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | Done, ready to claim | [@genievot](https://github.com/genievot) | 10.09.2021 |
+| DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | COMPLETED | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
+| DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | COMPLETED | [@genievot](https://github.com/genievot) | 10.09.2021 |
 | DevTools | [ZKP based private transactions](https://github.com/aeternity/bounties/issues/2) | CHF 10000 | in progress | [@genievot](https://github.com/genievot) | 31.01.2022 |
 | Superhero | [tipping-community-backend: update chain names from chainListener via listening to tx](https://github.com/aeternity/tipping-community-backend/issues/303) | CHF 200 | open | - | - |
 | Superhero | [tipping-community-backend: crawl, save and return favicon](https://github.com/aeternity/tipping-community-backend/issues/69) | CHF 400 | in progress | [@mghase](https://github.com/mghase) | 30.11.2021 |
@@ -32,7 +32,7 @@ _We reserve the right to assign the bounty to someone else in this case!_
 
 ## How to receive the reward?
 
-To claim your bounty reward please provide your AE address (or .chain name) in the issue you solved after your contribution has been approved. Additionally you need to fill in **[this form](https://form.jotform.com/212515121575347)**. The approval is either a merge of the PR in the official repository or an explicit comment in the issue of the bounty if there is no official repository in the organization. Make sure to include your *æternity wallet address* in the form as well as in the Github Issue conversation to receive your reward. Bounties will be transferred in **AE tokens** and calculated based on CHF values right before payment.
+To claim your bounty reward please provide your AE address (or .chain name) in the issue you solved after your contribution has been approved. The approval is either a merge of the PR in the official repository or an explicit comment in the issue of the bounty if there is no official repository in the organization. Make sure to include your *æternity wallet address* in the Github Issue to receive your reward. Bounties will be transferred in **AE tokens** and calculated based on CHF values right before payment. Transfers may take up to 14 days.
 
 ## Questions?
 Reach out to erik@aeternity.com or ask on [Discord](https://discord.gg/kthXBwBxEb) whenever you are having any questions or doubts regarding the bounties and the process! *Let's take control together* :)
