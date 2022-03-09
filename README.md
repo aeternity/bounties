@@ -15,6 +15,7 @@ You can currently contribute on the following open issues and challenges:
 | DevTools | [aepp-boilerplate-vue: update dependencies and general improvements](https://github.com/aeternity/aepp-boilerplate-vue/issues/1) | CHF 200 | COMPLETED | [@the-icarus](https://github.com/the-icarus) | 03.10.2021 |
 | DevTools | [aepp-token-migration-backend-nodejs: migrate Go backend to Node.js](https://github.com/aeternity/aepp-token-migration-backend-nodejs/issues/1) | CHF 800 | COMPLETED | [@genievot](https://github.com/genievot) | 10.09.2021 |
 | DevTools | [ZKP based private transactions](https://github.com/aeternity/bounties/issues/2) | CHF 10000 | in progress | [@genievot](https://github.com/genievot) | 31.03.2022 |
+| DevTools | [GitHub Syntax Highlighting](https://github.com/aeternity/bounties/issues/6) | CHF 1500 | open | - | - |
 | Superhero | [tipping-community-backend: update chain names from chainListener via listening to tx](https://github.com/aeternity/tipping-community-backend/issues/303) | CHF 200 | open | - | - |
 | Superhero | [tipping-community-backend: crawl, save and return favicon](https://github.com/aeternity/tipping-community-backend/issues/69) | CHF 400 | open | - | - |
 
